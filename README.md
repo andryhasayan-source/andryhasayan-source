@@ -28,6 +28,7 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 | [**Inkvizitor**](https://github.com/andryhasayan-source/inkvizitor) | Desktop scanner for hidden marks in Python code — steganography, homoglyphs, Unicode traps | PyQt6 |
 | [**VkBotEditor**](https://github.com/andryhasayan-source/VkBotEditor) | Desktop editor for single-file VK bots | Python, tkinter |
 | [**SP Tracer**](https://github.com/andryhasayan-source/sp-tracer) *(commercial)* | Portable watermarking & leak-detection tool with LSB steganography and PyArmor licensing | Python, PyInstaller |
+| [**HTML to EXE**](https://github.com/andryhasayan-source/html-to-exe) *(commercial)* | Pack any HTML page into a standalone Windows .exe — no browser, no install | Python, PyInstaller |
 | **MAX Bot — AI Assistant** *(commercial)* | Multi-user corporate AI assistant for MAX messenger with DeepSeek/Groq, Google Calendar & Gmail integration | aiogram 3, PostgreSQL, Redis |
 | **MAX Bot — AI Psychologist** *(commercial)* | AI psychologist bot with two personas, subscription tiers, PostgreSQL | aiogram 3, DeepSeek |
 
