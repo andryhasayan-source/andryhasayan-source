@@ -20,18 +20,29 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 
 ## 📦 Projects
 
+### 🖥 Desktop apps
+
 | Project | Description | Stack |
 |---|---|---|
 | [**Beacon**](https://github.com/andryhasayan-source/beacon) | Desktop productivity suite: notes, passwords (AES-256), stickers, reminders | PySide6, SQLite |
 | [**FlashTankPro**](https://github.com/andryhasayan-source/FlashTankPro) | Encrypt files into secure AES-256-GCM containers, USB-portable | Python, Windows |
-| [**WhereNow**](https://github.com/andryhasayan-source/WhereNow) | Real-time VPN/proxy exit-point monitor for Windows | Python, xray, wireguard |
+| [**WhereNow**](https://github.com/andryhasayan-source/WhereNow) | Real-time VPN/proxy exit-point monitor for Windows | Python, Windows |
 | [**Inkvizitor**](https://github.com/andryhasayan-source/inkvizitor) | Desktop scanner for hidden marks in Python code — steganography, homoglyphs, Unicode traps | PyQt6 |
 | [**VkBotEditor**](https://github.com/andryhasayan-source/VkBotEditor) | Desktop editor for single-file VK bots | Python, tkinter |
 | [**SP Tracer**](https://github.com/andryhasayan-source/sp-tracer) *(commercial)* | Portable watermarking & leak-detection tool with LSB steganography and PyArmor licensing | Python, PyInstaller |
 | [**HTML to EXE**](https://github.com/andryhasayan-source/html-to-exe) *(commercial)* | Pack any HTML page into a standalone Windows .exe — no browser, no install | Python, PyInstaller |
 | [**LEXIS**](https://github.com/andryhasayan-source/lexis) *(commercial)* | Desktop English vocabulary trainer — 2000 words, live TTS, 6 study modes. FREE edition available | Python, tkinter |
 | [**Renta Management**](https://github.com/andryhasayan-source/renta-management) *(commercial)* | Rental property management: tenants, contracts, payments, utilities, analytics, ROI | Python, SQLite |
+
+### 🤖 Bots
+
+| Project | Description | Stack |
+|---|---|---|
 | [**AI Assistant Bot**](https://github.com/andryhasayan-source/ai-assistant-bot) *(commercial)* | Corporate AI assistant for Telegram & MAX — chat, email, calendar, reminders, passwords, request intake | aiogram 3, PostgreSQL, Redis |
+| [**Telegram Channel Bot**](https://github.com/andryhasayan-source/telegram-channel-bot) *(commercial)* | Telegram bot for client requests and channel management — admin panel, posts, auto-likes, daily reports | aiogram 3, YDB |
+| [**MAX Booking Bot**](https://github.com/andryhasayan-source/max-booking-bot) *(commercial)* | Appointment booking bot for MAX — 3 roles, schedule, reminders, admin panel | Python, maxapi, PostgreSQL |
+| [**Beauty Salon Bot**](https://github.com/andryhasayan-source/beauty-salon-bot) *(commercial)* | Telegram booking bot for beauty salons — 3 roles, catalogue, reminders, admin panel | aiogram 3, YDB |
+| [**InfoBot MAX**](https://github.com/andryhasayan-source/infobot-max) *(open source)* | Universal info-bot for MAX — User ID, Chat ID, admin panel, statistics. Yandex Cloud Functions + YDB | Python, maxapi, YDB |
 
 ---
 
