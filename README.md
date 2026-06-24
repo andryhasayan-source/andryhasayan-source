@@ -29,9 +29,9 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 | [**VkBotEditor**](https://github.com/andryhasayan-source/VkBotEditor) | Desktop editor for single-file VK bots | Python, tkinter |
 | [**SP Tracer**](https://github.com/andryhasayan-source/sp-tracer) *(commercial)* | Portable watermarking & leak-detection tool with LSB steganography and PyArmor licensing | Python, PyInstaller |
 | [**HTML to EXE**](https://github.com/andryhasayan-source/html-to-exe) *(commercial)* | Pack any HTML page into a standalone Windows .exe — no browser, no install | Python, PyInstaller |
-| [**LEXIS**](https://github.com/andryhasayan-source/lexis) *(commercial)* | Desktop English vocabulary trainer — 2000 words, live TTS, 6 study modes. FREE edition available | Python, Windows |
-| **MAX Bot — AI Assistant** *(commercial)* | Multi-user corporate AI assistant for MAX messenger with DeepSeek/Groq, Google Calendar & Gmail integration | aiogram 3, PostgreSQL, Redis |
-| **MAX Bot — AI Psychologist** *(commercial)* | AI psychologist bot with two personas, subscription tiers, PostgreSQL | aiogram 3, DeepSeek |
+| [**LEXIS**](https://github.com/andryhasayan-source/lexis) *(commercial)* | Desktop English vocabulary trainer — 2000 words, live TTS, 6 study modes. FREE edition available | Python, tkinter |
+| [**Renta Management**](https://github.com/andryhasayan-source/renta-management) *(commercial)* | Rental property management: tenants, contracts, payments, utilities, analytics, ROI | Python, SQLite |
+| [**AI Assistant Bot**](https://github.com/andryhasayan-source/ai-assistant-bot) *(commercial)* | Corporate AI assistant for Telegram & MAX — chat, email, calendar, reminders, passwords, request intake | aiogram 3, PostgreSQL, Redis |
 
 ---
 
