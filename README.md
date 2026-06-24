@@ -31,6 +31,8 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 | [**VkBotEditor**](https://github.com/andryhasayan-source/VkBotEditor) | Desktop editor for single-file VK bots | Python, tkinter |
 | [**MAC Address Tool**](https://github.com/andryhasayan-source/mac-address-tool) | Instant MAC address display and copy — Windows, Linux, macOS. Single Python file | Python, tkinter |
 | [**EmojiCrafter PRO**](https://github.com/andryhasayan-source/emoji-crafter) | Smart emoji text decorator — keyword bases, intensity slider, offline | Python, tkinter |
+| [**200 ШЕДЕВРОВ**](https://github.com/andryhasayan-source/cookbook-2026) | Desktop cookbook — 200 recipes, 23 cuisines, meal planner, nutrition calc, PDF export | PyQt6, SQLite |
+| [**SP Stamper**](https://github.com/andryhasayan-source/sp-stamper) | Authorship watermark tool — visible comment + hidden Unicode steganography | Python, tkinter |
 | [**SP Tracer**](https://github.com/andryhasayan-source/sp-tracer) *(commercial)* | Portable watermarking & leak-detection tool with LSB steganography and PyArmor licensing | Python, PyInstaller |
 | [**HTML to EXE**](https://github.com/andryhasayan-source/html-to-exe) *(commercial)* | Pack any HTML page into a standalone Windows .exe — no browser, no install | Python, PyInstaller |
 | [**LEXIS**](https://github.com/andryhasayan-source/lexis) *(commercial)* | Desktop English vocabulary trainer — 2000 words, live TTS, 6 study modes. FREE edition available | Python, tkinter |
