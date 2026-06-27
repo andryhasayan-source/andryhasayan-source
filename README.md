@@ -60,7 +60,7 @@ Honest negative result: Sonnet already operates near ceiling on well-specified t
 ## 🌐 Links
 
 [![ShashevPro](https://img.shields.io/badge/shashevpro.ru-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.shashevpro.ru)
-[![Kwork](https://img.shields.io/badge/Kwork-FF5722?style=flat&logo=freelancer&logoColor=white)](https://kwork.ru/user/andreysha256)
+[![Kwork](https://img.shields.io/badge/Kwork-FF5722?style=flat&logo=freelancer&logoColor=white)](https://kwork.ru/user/shashevpro)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/andrey_shashev)
 
 ---
