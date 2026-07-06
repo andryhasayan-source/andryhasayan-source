@@ -37,6 +37,8 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 | [**HTML to EXE**](https://github.com/andryhasayan-source/html-to-exe) *(commercial)* | Pack any HTML page into a standalone Windows .exe — no browser, no install | Python, PyInstaller |
 | [**LEXIS**](https://github.com/andryhasayan-source/lexis) *(commercial)* | Desktop English vocabulary trainer — 2000 words, live TTS, 6 study modes. FREE edition available | Python, tkinter |
 | [**Renta Management**](https://github.com/andryhasayan-source/renta-management) *(commercial)* | Rental property management: tenants, contracts, payments, utilities, analytics, ROI | Python, SQLite |
+| [**SkladskoyUchet**](https://github.com/andryhasayan-source/SkladskoyUchet) *(commercial)* | Warehouse & inventory management — products, purchases, sales, profit tracking, PDF reports, analytics | Python, tkinter, SQLite |
+| [**ScreenRecorder-SP**](https://github.com/andryhasayan-source/ScreenRecorder-SP) *(commercial)* | Screen recorder with audio, watermark and vertical 9:16 mode for Shorts/Reels/TikTok — RU/EN interface | Python, tkinter |
 
 ### 🤖 Bots
 
