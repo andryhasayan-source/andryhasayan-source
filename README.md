@@ -24,6 +24,7 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 
 | Project | Description | Stack |
 |---|---|---|
+| [**AI Retail Auditor**](https://github.com/andryhasayan-source/ai-retail-auditor) *(commercial)* | AI-powered financial audit desktop app for retail — independent math verification, Analyst & Forensic modes, DeepSeek V4 Pro, Word export | Python, DeepSeek API |
 | [**Beacon**](https://github.com/andryhasayan-source/beacon) | Desktop productivity suite: notes, passwords (AES-256), stickers, reminders | PySide6, SQLite |
 | [**FlashTankPro**](https://github.com/andryhasayan-source/FlashTankPro) *(commercial)* | Encrypt files into secure AES-256-GCM containers you can safely share anywhere — email, cloud, USB | Python, Windows |
 | [**WhereNow**](https://github.com/andryhasayan-source/WhereNow) | Real-time VPN/proxy exit-point monitor for Windows | Python, Windows |
