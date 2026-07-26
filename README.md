@@ -42,6 +42,12 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 | [**SkladskoyUchet**](https://github.com/andryhasayan-source/SkladskoyUchet) *(commercial)* | Warehouse & inventory management — products, purchases, sales, profit tracking, PDF reports, analytics | Python, tkinter, SQLite |
 | [**ScreenRecorder-SP**](https://github.com/andryhasayan-source/ScreenRecorder-SP) *(commercial)* | Screen recorder with audio, watermark and vertical 9:16 mode for Shorts/Reels/TikTok — RU/EN interface | Python, tkinter |
 
+### 🌐 Web Apps
+
+| Project | Description | Stack |
+|---|---|---|
+| [**ShashevPro AI Station**](https://github.com/andryhasayan-source/shashevpro-ai-station) *(commercial)* | Local AI station running entirely in the browser — WebGPU-powered LLM chat with 9+ model options, image generation, voice input/output. No install, no subscription, no server: inference runs on the client's own GPU | HTML, WebGPU, WebLLM |
+
 ### 🔒 Secure Communication
 
 | Project | Description | Stack |
