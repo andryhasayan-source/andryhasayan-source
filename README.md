@@ -42,6 +42,12 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 | [**SkladskoyUchet**](https://github.com/andryhasayan-source/SkladskoyUchet) *(commercial)* | Warehouse & inventory management — products, purchases, sales, profit tracking, PDF reports, analytics | Python, tkinter, SQLite |
 | [**ScreenRecorder-SP**](https://github.com/andryhasayan-source/ScreenRecorder-SP) *(commercial)* | Screen recorder with audio, watermark and vertical 9:16 mode for Shorts/Reels/TikTok — RU/EN interface | Python, tkinter |
 
+### 🔒 Secure Communication
+
+| Project | Description | Stack |
+|---|---|---|
+| [**ShashevPro P2P Connect**](https://github.com/andryhasayan-source/shashevpro-p2p-connect) *(commercial)* | Enterprise-grade P2P communication widget — encrypted chat, video/voice calls, screen sharing, file transfer. White-label ready, deployable on your own infrastructure — no third-party servers see your data | Python, WebRTC, WebSocket |
+
 ### 🤖 Bots
 
 | Project | Description | Stack |
