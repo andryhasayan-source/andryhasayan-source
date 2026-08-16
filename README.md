@@ -18,6 +18,25 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 
 ---
 
+## 🚀 Flagship — ShashevPro AI Agent
+
+**An offline AI agent for the work computer.** Not a chatbot with advice —
+an agent that acts: writes documents, reads email, keeps a knowledge base,
+watches a server, talks by voice, works from a phone via Telegram/MAX.
+Can run fully offline — your data never leaves the machine.
+
+Commercial B2B product, actively developed. First release is complete and
+sold as-is; v2, v3 and beyond are already in progress.
+
+**[→ shashevpro-ai-agent](https://github.com/andryhasayan-source/shashevpro-ai-agent)** — description, screenshots, changelog
+
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=flat&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6236FF?style=flat&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-black?style=flat)
+![Offline first](https://img.shields.io/badge/Offline--first-2E7D32?style=flat)
+
+---
+
 ## 📦 Projects
 
 ### 🖥 Desktop apps
