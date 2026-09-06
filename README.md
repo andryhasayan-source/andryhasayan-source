@@ -69,6 +69,12 @@ minutes, projects. 88 tools.
 | [**SkladskoyUchet**](https://github.com/andryhasayan-source/SkladskoyUchet) *(commercial)* | Warehouse & inventory management — products, purchases, sales, profit tracking, PDF reports, analytics | Python, tkinter, SQLite |
 | [**ScreenRecorder-SP**](https://github.com/andryhasayan-source/ScreenRecorder-SP) *(commercial)* | Screen recorder with audio, watermark and vertical 9:16 mode for Shorts/Reels/TikTok — RU/EN interface | Python, tkinter |
 
+### 🧩 Browser Extensions
+
+| Project | Description | Stack |
+|---|---|---|
+| [**DocLite PDF**](https://github.com/andryhasayan-source/doclite-pdf) *(commercial)* | 10 PDF tools for Chrome — merge, split, compress, convert to Word & Excel, watermark, page numbers, signature. Everything runs locally: documents never leave the user's computer. RU/EN interface. [Chrome Web Store](https://chromewebstore.google.com/detail/doclite-pdf-%E2%80%94-10-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5/jdomnjidenomgdjpmnoegpfkjmhgfngn) | JavaScript, Manifest V3, pdf-lib |
+
 ### 🌐 Web Apps
 
 | Project | Description | Stack |
