@@ -20,13 +20,18 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 
 ## 🚀 Flagship — ShashevPro AI Agent
 
-**An offline AI agent for the work computer.** Not a chatbot with advice —
-an agent that acts: writes documents, reads email, keeps a knowledge base,
-watches a server, talks by voice, works from a phone via Telegram/MAX.
-Can run fully offline — your data never leaves the machine.
+**An AI agent for the work computer.** Not a chatbot with advice — an agent
+that acts: writes documents, reads data from 1C, handles email, keeps a
+knowledge base, takes meeting minutes, runs scheduled jobs, talks by voice,
+works from a phone via Telegram/MAX.
 
-Commercial B2B product, actively developed. First release is complete and
-sold as-is; v2, v3 and beyond are already in progress.
+**Where the model runs is your choice** — on the machine, on your own company
+server, or in the cloud. In the first two the data never leaves your
+perimeter.
+
+Commercial B2B product, actively developed. **Version 2.0 is out:** 1C
+integration, self-hosted server component, vision, scheduled jobs, meeting
+minutes, projects. 88 tools.
 
 **[→ shashevpro-ai-agent](https://github.com/andryhasayan-source/shashevpro-ai-agent)** — description, screenshots, changelog
 
@@ -34,6 +39,8 @@ sold as-is; v2, v3 and beyond are already in progress.
 ![Qwen](https://img.shields.io/badge/Qwen-6236FF?style=flat&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-black?style=flat)
 ![Offline first](https://img.shields.io/badge/Offline--first-2E7D32?style=flat)
+![1C](https://img.shields.io/badge/1C-FFD700?style=flat&logoColor=black)
+![Self-hosted](https://img.shields.io/badge/Self--hosted-455A64?style=flat)
 
 ---
 
