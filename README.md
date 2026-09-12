@@ -75,7 +75,7 @@ minutes, projects. 88 tools.
 | Project | Description | Stack |
 |---|---|---|
 | [**DocLite PDF**](https://github.com/andryhasayan-source/doclite-pdf) *(commercial)* | 10 PDF tools for Chrome — merge, split, compress, convert to Word & Excel, watermark, page numbers, signature. Everything runs locally: documents never leave the user's computer. RU/EN interface. [Chrome Web Store](https://chromewebstore.google.com/detail/doclite-pdf-%E2%80%94-10-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5/jdomnjidenomgdjpmnoegpfkjmhgfngn) | JavaScript, Manifest V3, pdf-lib |
-| [**Sticky Notes on Any Web Page**](https://chromewebstore.google.com/detail/sticky-notes-on-any-web-p/lmhbnopbihkgmeobegbiiidnmjkajaol) | Pins a sticky note to any webpage and relocates it by matching the paragraph text — survives layout changes, even months later. Checklists, date reminders, tags, four colours. Notes stay in the browser: no server, no sign-up | JavaScript, Manifest V3 |
+| [**Sticky Notes on Any Web Page**](https://github.com/andryhasayan-source/sticky-notes-on-any-web-page) | Pins a sticky note to any webpage and relocates it by matching the paragraph text — survives layout changes, even months later. Checklists, date reminders, tags, four colours. Notes stay in the browser: no server, no sign-up. [Chrome Web Store](https://chromewebstore.google.com/detail/sticky-notes-on-any-web-p/lmhbnopbihkgmeobegbiiidnmjkajaol) | JavaScript, Manifest V3 |
 
 ### 🌐 Web Apps
 
