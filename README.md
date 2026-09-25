@@ -51,6 +51,7 @@ minutes, projects. 88 tools.
 | Project | Description | Stack |
 |---|---|---|
 | [**ShashevPro Visual Lab**](https://github.com/andryhasayan-source/shashevpro-visual-lab) *(commercial)* | Audio-reactive desktop visualizer — a living field of glowing nodes driven by system audio via WASAPI, 34 volumetric shapes from spheres to strange attractors, a built-in scene director, OBS-ready broadcast mode (chroma key, true transparency, borderless window, global hotkeys), fully offline | Python, PySide6 |
+| [**ShashevPro Голос**](https://github.com/andryhasayan-source/shashevpro-golos) *(commercial)* | Offline speech-to-text dictation for Windows — text appears while you speak, global hotkey to dictate into any app, one-click NVIDIA GPU acceleration, admin-free installer + portable build | Python, PySide6, faster-whisper |
 | [**ShashevPro Quiz**](https://github.com/andryhasayan-source/shashevpro-quiz) *(commercial)* | Offline interactive quiz builder for schools & organisations — 4 question types, timers, results dashboard with pass-threshold highlighting & Excel export, custom branding, RU/EN | PySide6, SQLite |
 | [**ShashevPro AI Chat**](https://github.com/andryhasayan-source/shashevpro-ai-chat) *(commercial)* | Local AI chat for business — private GGUF models on CPU/GPU, knowledge base (RAG), optional web search via Yandex Search API. Data never leaves your infrastructure | Python, llama.cpp |
 | [**AI Retail Auditor**](https://github.com/andryhasayan-source/ai-retail-auditor) *(commercial)* | AI-powered financial audit desktop app for retail — independent math verification, Analyst & Forensic modes, DeepSeek V4 Pro, Word export | Python, DeepSeek API |
@@ -74,7 +75,7 @@ minutes, projects. 88 tools.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**DocLite PDF**](https://github.com/andryhasayan-source/doclite-pdf) *(commercial)* | 11 PDF tools for Chrome — merge, split, compress, convert to Word & Excel, watermark, page numbers, signature, OCR text recognition. Everything runs locally: documents never leave the user's computer, and OCR only makes a one-time language-model download. RU/EN interface. [Chrome Web Store](https://chromewebstore.google.com/detail/doclite-pdf-%E2%80%94-10-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5/jdomnjidenomgdjpmnoegpfkjmhgfngn) | JavaScript, Manifest V3, pdf-lib, Tesseract.js |
+| [**DocLite PDF**](https://github.com/andryhasayan-source/doclite-pdf) *(commercial)* | 10 PDF tools for Chrome — merge, split, compress, convert to Word & Excel, watermark, page numbers, signature. Everything runs locally: documents never leave the user's computer. RU/EN interface. [Chrome Web Store](https://chromewebstore.google.com/detail/doclite-pdf-%E2%80%94-10-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5/jdomnjidenomgdjpmnoegpfkjmhgfngn) | JavaScript, Manifest V3, pdf-lib |
 | [**Sticky Notes on Any Web Page**](https://github.com/andryhasayan-source/sticky-notes-on-any-web-page) | Pins a sticky note to any webpage and relocates it by matching the paragraph text — survives layout changes, even months later. Checklists, date reminders, tags, four colours. Notes stay in the browser: no server, no sign-up. [Chrome Web Store](https://chromewebstore.google.com/detail/sticky-notes-on-any-web-p/lmhbnopbihkgmeobegbiiidnmjkajaol) | JavaScript, Manifest V3 |
 
 ### 🌐 Web Apps
