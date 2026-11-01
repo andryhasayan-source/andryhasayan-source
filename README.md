@@ -14,6 +14,7 @@ I build commercial-grade software: portable, obfuscated, licensed, documented.
 ![aiogram](https://img.shields.io/badge/aiogram-3-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ---
@@ -29,9 +30,13 @@ works from a phone via Telegram/MAX.
 server, or in the cloud. In the first two the data never leaves your
 perimeter.
 
-Commercial B2B product, actively developed. **Version 2.0 is out:** 1C
-integration, self-hosted server component, vision, scheduled jobs, meeting
-minutes, projects. 88 tools.
+Commercial B2B product, actively developed. **Version 3.0 is out — the agent
+learns from your work.** It remembers how your 1C database is structured and
+how similar tasks were solved before, so next time it does them right away.
+It learns only when you press a button; everything it has remembered is
+visible and can be deleted in one click.
+
+1C data is **read-only** — the agent has no way to change it. No telemetry.
 
 **[→ shashevpro-ai-agent](https://github.com/andryhasayan-source/shashevpro-ai-agent)** — description, screenshots, changelog
 
@@ -46,12 +51,22 @@ minutes, projects. 88 tools.
 
 ## 📦 Projects
 
+### 💼 Business Systems
+
+| Project | Description | Stack |
+|---|---|---|
+| [**ShashevPro CRM**](https://github.com/andryhasayan-source/shashevpro-crm) *(commercial)* | CRM for small business with no monthly fee — clients, deals, invoices with payment QR codes, acts and USN taxes in one window. Runs on a computer without internet, or on your own server and from any device | HTML, JavaScript, self-hosted server |
+| [**ShashevPro Журнал**](https://github.com/andryhasayan-source/shashevpro-zhurnal) *(commercial)* | An electronic logbook instead of a paper notebook — entries, clients, cash desk and shift closing in one window, with shortage protection. Runs in the browser, installs on your server, no subscription. Used in production in the author's own rental & repair business | Python, Django |
+| **Greenleaf Academy** *(custom project)* | Online training platform for Greenleaf partners — video courses, tests, personalised certificates, a private documents section and mentor support. Subscriptions are paid via Robokassa, access is granted automatically right after payment. Self-hosted; moving to another VPS takes one command. Live: [greenleaf.guru](https://greenleaf.guru/) | Frappe Learning, Robokassa, Ubuntu |
+
 ### 🖥 Desktop apps
 
 | Project | Description | Stack |
 |---|---|---|
 | [**ShashevPro Visual Lab**](https://github.com/andryhasayan-source/shashevpro-visual-lab) *(commercial)* | Audio-reactive desktop visualizer — a living field of glowing nodes driven by system audio via WASAPI, 34 volumetric shapes from spheres to strange attractors, a built-in scene director, OBS-ready broadcast mode (chroma key, true transparency, borderless window, global hotkeys), fully offline | Python, PySide6 |
-| [**ShashevPro Голос**](https://github.com/andryhasayan-source/shashevpro-golos) *(commercial)* | Offline speech-to-text dictation for Windows — text appears while you speak, global hotkey to dictate into any app, one-click NVIDIA GPU acceleration, admin-free installer + portable build | Python, PySide6, faster-whisper |
+| [**ShashevPro Голос 1.4.2**](https://github.com/andryhasayan-source/shashevpro-golos) *(commercial)* | Dictation and audio transcription for Windows — speak and the text appears instantly, already copied. Drop in a voice message from Telegram, WhatsApp or MAX, a meeting recording or a video and get the text. Recognition runs on the computer itself: no cloud, no subscription, works offline after first setup | Python, PySide6, faster-whisper |
+| [**ShashevPro DocScan**](https://github.com/andryhasayan-source/shashevpro-docscan) *(free)* | Document scanning for Windows — one button and the document is a PDF. Works with any scanner or MFP, guides you at every step, no ads, no internet required | Python, PySide6 |
+| **ShashevPro NewYear** *(commercial)* | A living New Year tree on the Windows desktop that decorates itself by the calendar: first lights in November, ornaments and a star in December, presents piling up as the holiday nears, fireworks and a greeting at midnight on December 31. Snow, twinkling garland, interactive gifts and a countdown. Works offline, stays out of the way, light on laptops | Python, PySide6 |
 | [**ShashevPro Quiz**](https://github.com/andryhasayan-source/shashevpro-quiz) *(commercial)* | Offline interactive quiz builder for schools & organisations — 4 question types, timers, results dashboard with pass-threshold highlighting & Excel export, custom branding, RU/EN | PySide6, SQLite |
 | [**ShashevPro AI Chat**](https://github.com/andryhasayan-source/shashevpro-ai-chat) *(commercial)* | Local AI chat for business — private GGUF models on CPU/GPU, knowledge base (RAG), optional web search via Yandex Search API. Data never leaves your infrastructure | Python, llama.cpp |
 | [**AI Retail Auditor**](https://github.com/andryhasayan-source/ai-retail-auditor) *(commercial)* | AI-powered financial audit desktop app for retail — independent math verification, Analyst & Forensic modes, DeepSeek V4 Pro, Word export | Python, DeepSeek API |
